@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/03/14 10:36:59.000.052,=C:\Users\Delatorre\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/07/17 09:43:59.000.506,=C:\Users\Delatorre\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/07/17 09:45:07.000.734,C:\Users\Delatorre\Desktop\ToastExample\Unit2.dfm=C:\Users\Delatorre\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2021/07/17 09:45:07.000.734,C:\Users\Delatorre\Desktop\ToastExample\Unit2.pas=C:\Users\Delatorre\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/07/17 09:45:19.000.105,=C:\Users\Delatorre\Desktop\ToastExample\uTToastMessage.pas</Transaction>
+    <Transaction>2021/07/17 09:47:59.000.961,C:\Users\Delatorre\Desktop\ToastExample\Project1.dproj=C:\Users\Delatorre\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/01/14 13:50:54.833,D:\Projetos\0-Componentes\DelphiToastMessage-main\uTToastVCL.pas=D:\Projetos\0-Componentes\DelphiToastMessage-main\uTToastMessage.pas</Transaction>
+    <Transaction>2022/01/14 13:52:30.026,D:\Projetos\0-Componentes\DelphiToastMessage-main\uToastVCL.pas=D:\Projetos\0-Componentes\DelphiToastMessage-main\uTToastVCL.pas</Transaction>
+    <Transaction>2022/01/14 17:48:05.892,D:\Projetos\0-Componentes\DelphiToastMessage-main\uTeste.dfm=D:\Projetos\0-Componentes\DelphiToastMessage-main\Unit2.dfm</Transaction>
+    <Transaction>2022/01/14 17:48:05.892,D:\Projetos\0-Componentes\DelphiToastMessage-main\uTeste.pas=D:\Projetos\0-Componentes\DelphiToastMessage-main\Unit2.pas</Transaction>
+    <Transaction>2022/01/14 17:48:50.271,D:\Projetos\0-Componentes\DelphiToastMessage-main\ToastVCL.dproj=D:\Projetos\0-Componentes\DelphiToastMessage-main\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
